@@ -1,1 +1,1 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee","days_since.coffee"]
+["redis-brain.coffee", "tweet.coffee", "shipit.coffee","days_since.coffee","deadline.coffee"]
