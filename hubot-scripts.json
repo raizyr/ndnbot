@@ -6,5 +6,6 @@
   "deadline.coffee",
   "achievement_unlocked.coffee",
   "ambush.coffee",
-  "look-of-disapproval.coffee"
+  "look-of-disapproval.coffee",
+  "weather.coffee"
 ]
